@@ -1,5 +1,4 @@
-Day 1, 30th Aug 2017
-....................
+<< Day 1 - 30th Aug 2017 >>
 
 1.  The Basics of Networking. Client-server architechture, web sites, protocols(http, ftp), ports and sockets etc.
 
@@ -8,3 +7,33 @@ Day 1, 30th Aug 2017
 3.  Linux Shell Commands( pwd, ls, cd, mkdir, rm, rmdir, touch, man, diff, nano, cat/less, sort, find, uname, hostname, host, expr, chmod) etc.
 
 4.  ctrl + r to find previously executed commands.
+
+<< Day 2 - 31st Aug 2017 >>
+
+1. Intro to git, git hub, advantages etc.
+
+2. verious fetures of GIT.
+
+3. Installing GIT (sudo apt-get install git-all).
+
+4. Cloning a repository from github ($git clone <url>), checking status ($git status), show commit logs ($git log).
+
+5. Staging area, Working area and git Repository. Adding a file from working area to staging area ($ git add <filename.ext>).
+
+6. commiting the file from staging area into the repository ($ git commit -m "<relevent massage>"). 
+
+7. Diffarentiate the changes between verious commits. $ git diff <old id> <new id> // $ git diff --stat <old id> <new id> .
+
+8. Switching between verious commits( $ git checkout <commit id> ). what is detached head?.
+
+9. #Branching. creating a new branch from any commit( $ git branch <branch name>), checking all the branches ( $ git branch). switching to the 	  branch ( $ git checkout <branch name> ). create and checkout to the branch ($ git checkout -b <branch name> ).
+
+10. #MERGE branchs. ($ git merge <branchname>  OR $ git merge <branch1> <branch2>). managging conflicts manually and automaticlly.
+
+11. Signup to GITHUB free account. setting up a new repository.
+
+12. creating a #remote for the github repo in local repo. ($ git remote add <remote name> <url to github repo>).
+
+13. Checking all the remotes ($ git remote OR $ git remote -v).
+
+14. PUSHing branches to Github repo ($ git push <remote name> <Branch Name>).
