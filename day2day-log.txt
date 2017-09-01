@@ -37,3 +37,9 @@
 13. Checking all the remotes ($ git remote OR $ git remote -v).
 
 14. PUSHing branches to Github repo ($ git push <remote name> <Branch Name>).
+
+15. PULLing branches from github into local repo ($ git pull <remote name> <Branch Name>).
+
+16. Forking repositories from github to local(clone) and github to github and adding a contributor in github.
+
+17. Colaborating with other contributors and pushing the branches. 
