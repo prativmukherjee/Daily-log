@@ -1,0 +1,10 @@
+Day 1, 30th Aug 2017
+....................
+
+1.  The Basics of Networking. Client-server architechture, web sites, protocols(http, ftp), ports and sockets etc.
+
+2.  The Basics of web devolopments. websites and how it works, working languages(HTML, CSS, JS), Client side and server side workings etc.
+
+3.  Linux Shell Commands( pwd, ls, cd, mkdir, rm, rmdir, touch, man, diff, nano, cat/less, sort, find, uname, hostname, host, expr, chmod) etc.
+
+4.  ctrl + r to find previously executed commands.
